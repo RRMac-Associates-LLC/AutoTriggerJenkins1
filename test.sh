@@ -2,4 +2,4 @@
 
 echo "Testing AutoTrigger"
 echo $CHANGE_ID
-echo "8"
+echo "9"
